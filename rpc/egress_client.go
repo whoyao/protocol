@@ -1,8 +1,8 @@
 package rpc
 
 import (
-	"github.com/livekit/protocol/livekit"
 	"github.com/livekit/psrpc"
+	"github.com/whoyao/protocol/livekit"
 )
 
 type EgressClient interface {

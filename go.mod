@@ -1,4 +1,4 @@
-module github.com/livekit/protocol
+module github.com/whoyao/protocol
 
 go 1.18
 
@@ -22,6 +22,7 @@ require (
 	github.com/redis/go-redis/v9 v9.0.4
 	github.com/stretchr/testify v1.8.2
 	github.com/twitchtv/twirp v8.1.3+incompatible
+	github.com/whoyao/webrtc/v3 v3.2.1-dev2
 	go.uber.org/atomic v1.11.0
 	go.uber.org/zap v1.24.0
 	golang.org/x/exp v0.0.0-20230515195305-f3d0a9c9a5cc

@@ -9,7 +9,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/livekit/protocol/utils"
+	"github.com/whoyao/protocol/utils"
 )
 
 func init() {

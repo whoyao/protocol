@@ -8,8 +8,8 @@ import (
 
 	"google.golang.org/protobuf/encoding/protojson"
 
-	"github.com/livekit/protocol/auth"
-	"github.com/livekit/protocol/livekit"
+	"github.com/whoyao/protocol/auth"
+	"github.com/whoyao/protocol/livekit"
 )
 
 // Receive reads and verifies incoming webhook is signed with key/secret pair

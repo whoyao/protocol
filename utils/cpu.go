@@ -6,7 +6,7 @@ import (
 	"github.com/frostbyte73/core"
 	"go.uber.org/atomic"
 
-	"github.com/livekit/protocol/logger"
+	"github.com/whoyao/protocol/logger"
 )
 
 // This object returns cgroup quota aware cpu stats. On other systems than Linux,

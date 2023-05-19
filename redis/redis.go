@@ -7,7 +7,7 @@ import (
 	"github.com/pkg/errors"
 	"github.com/redis/go-redis/v9"
 
-	"github.com/livekit/protocol/logger"
+	"github.com/whoyao/protocol/logger"
 )
 
 var ErrNotConfigured = errors.New("Redis is not configured")

@@ -8,10 +8,10 @@ import (
 	"github.com/redis/go-redis/v9"
 	"google.golang.org/protobuf/proto"
 
-	"github.com/livekit/protocol/livekit"
-	"github.com/livekit/protocol/logger"
-	"github.com/livekit/protocol/rpc"
-	"github.com/livekit/protocol/utils"
+	"github.com/whoyao/protocol/livekit"
+	"github.com/whoyao/protocol/logger"
+	"github.com/whoyao/protocol/rpc"
+	"github.com/whoyao/protocol/utils"
 )
 
 const (

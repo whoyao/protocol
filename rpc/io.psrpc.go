@@ -13,7 +13,7 @@ import (
 	"github.com/livekit/psrpc/version"
 )
 import google_protobuf2 "google.golang.org/protobuf/types/known/emptypb"
-import livekit1 "github.com/livekit/protocol/livekit"
+import livekit1 "github.com/whoyao/protocol/livekit"
 
 var _ = version.PsrpcVersion_0_3_0
 

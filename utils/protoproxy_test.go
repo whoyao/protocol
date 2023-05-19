@@ -8,7 +8,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/livekit/protocol/livekit"
+	"github.com/whoyao/protocol/livekit"
 )
 
 func TestProtoProxy(t *testing.T) {

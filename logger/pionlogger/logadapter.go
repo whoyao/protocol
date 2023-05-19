@@ -6,7 +6,7 @@ import (
 
 	"go.uber.org/zap/zapcore"
 
-	"github.com/livekit/protocol/logger"
+	"github.com/whoyao/protocol/logger"
 )
 
 // implements webrtc.LeveledLogger

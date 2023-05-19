@@ -1,9 +1,9 @@
 package utils
 
 import (
-	"github.com/livekit/protocol/livekit"
-	"github.com/livekit/protocol/logger"
-	"github.com/pion/webrtc/v3"
+	"github.com/whoyao/protocol/livekit"
+	"github.com/whoyao/protocol/logger"
+	"github.com/whoyao/webrtc/v3"
 )
 
 func GetMimeTypeForVideoCodec(codec livekit.VideoCodec) string {

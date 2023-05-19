@@ -1,7 +1,7 @@
 package ingress
 
 import (
-	"github.com/livekit/protocol/livekit"
+	"github.com/whoyao/protocol/livekit"
 )
 
 // This validates that ingress options have no consistency issues and provide enough parameters

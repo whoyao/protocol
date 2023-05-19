@@ -7,7 +7,7 @@ import (
 
 	"go.uber.org/atomic"
 
-	"github.com/livekit/protocol/livekit"
+	"github.com/whoyao/protocol/livekit"
 )
 
 const tickBits uint64 = 13
